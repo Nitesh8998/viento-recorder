@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Packaging (PyInstaller and installer builds)
+build/
+dist/
+upx/
+setup builder/
+*.spec
+SetupTemplate.iss
+pmr-software.json
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+
+# Recordings and run output. A macro contains everything that was typed during the
+# session; keep recordings out of the repository unless they were made to be shared.
+*.pmr
+output/

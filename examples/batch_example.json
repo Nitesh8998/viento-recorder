@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {"path": "../macros/word_session.pmr", "app": "WINWORD.EXE"},
+    {"path": "../macros/browsing_session.pmr", "app": "chrome.exe"},
+    "../macros/photo_session.pmr"
+  ],
+  "data_dump_path": "C:/viento_runs",
+  "test_type": "pluggedIn_bestPerf",
+  "delay_between_macros": 15,
+  "limit_runs": true,
+  "max_time": 600,
+  "monitor_command": ["typeperf", "\\Processor(_Total)\\% Processor Time", "-si", "1", "-f", "CSV", "-y", "-o", "{output}"],
+  "clear_app_caches": false
+}

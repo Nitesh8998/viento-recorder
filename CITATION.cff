@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Viento recorder"
+type: software
+license: GPL-3.0-only
+authors:
+  - family-names: "Narayana GS"
+    given-names: "Nitesh"
+  - family-names: "Yue"
+    given-names: "Anna"
+  - family-names: "Mehta"
+    given-names: "Sanyam"
+  - family-names: "Martorell"
+    given-names: "Xavier"
+preferred-citation:
+  type: article
+  title: "Viento ⇒ Opening Windows to Benchmarking Methodology on Modern Client Systems"
+  authors:
+    - family-names: "Narayana GS"
+      given-names: "Nitesh"
+    - family-names: "Yue"
+      given-names: "Anna"
+    - family-names: "Mehta"
+      given-names: "Sanyam"
+    - family-names: "Martorell"
+      given-names: "Xavier"

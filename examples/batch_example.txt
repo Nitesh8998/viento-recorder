@@ -1,0 +1,4 @@
+# One macro per line. Optionally add ", <process name>" to check that the
+# application has exited when the macro ends (PASS) or is still running (FAIL).
+../macros/word_session.pmr, WINWORD.EXE
+../macros/photo_session.pmr
